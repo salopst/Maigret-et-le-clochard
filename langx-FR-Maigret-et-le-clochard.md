@@ -8,20 +8,25 @@ Transcription / grammar notes:
 
 
 
-----------
-## 2018-09-06
+--
 
-**[p. 8]**
+## p. 8
 
-Il y eut un moment, entre le quai des Orfevres et le pont Marie où Maigret s'arrêta, si court, que Lapointe, qui marchait à son côté, n'y fit pas attention.  Et pourtant, pendant quelques secondes, le commisaire venait de se retrouver à l'âge de son compagnon.  Ceci était peut-être dû au temps, car, bien qu'on fût déjà le 25 mars, c'était la première vraie journée de printemps.  
+Il y eut un moment, entre le quai des Orfèvres et le pont Marie où Maigret s'arrêta, si court, que Lapointe, qui marchait à son côté, n'y fit pas attention.  Et pourtant, pendant quelques secondes, le commissaire venait de se retrouver à l'âge de son compagnon.  Ceci était peut-être dû au temps, car, bien qu'on fût déjà le 25 mars, c'était la première vraie journée de printemps.  
 
 Les mains jointes derrière le dos, il regardait autour de lui, à droite, à gauche, en l'air, remarquant de choses auxquelles, depuis longtemps, il ne prêtait plus attention.
 
 Pour un chemin aussi court, il n'était pas question de prendre une des voitures noires de la Police Judiciare, et les deux hommes marchaient le long des quais.
 
+sjy2-2018-10-04: rhinospike req. https://rhinospike.com/audio_requests/centzon400/48273/
+
 Arrivés à l'ile Saint Loius, ils suivaient le quai de Bourbon jusqu'au pont Marie qu'ils traversaient, et, de là, ils pouvaient voie une péniche grise.  Elle's appelail « Le Poitou » et elle était en train de décharger le sable dont elle était pleine.  
 
-Une autre péniche se trouvait à une cinquantaine de mètres de la première.  Plus propre, elle semblait avoir été nettoyée le matin-même, et un drapeau belge flotait tranquillement à l'arrière, tandis que, près de la cabine **[p. 9]** blanche, un bébé dormait dans un hamac de toile.  Un homme très grand, aux cheveux d'un blond pâle, regardait en direction du quai comme s'il attendait quelque chose.   
+Une autre péniche se trouvait à une cinquantaine de mètres de la première.  Plus propre, elle semblait avoir été nettoyée le matin-même, et un drapeau belge flotait tranquillement à l'arrière, tandis que, près de la cabine 
+
+## p. 9
+
+blanche, un bébé dormait dans un hamac de toile.  Un homme très grand, aux cheveux d'un blond pâle, regardait en direction du quai comme s'il attendait quelque chose.   
 
 
 Le nom du bateau, en lettres dorées, était « De Zwarte Zwaan », un nom flamand*, que ni Maigret ni Lapointe ne comprenaient.  
@@ -31,7 +36,11 @@ Il était dix heures moins deux ou trois minutes.  Les policiers atteignaient le
 
 --- Tiens! On arrive en même temps.
 
-Ils venaient du Palais de Justice aussi, mais de la partie plus solennelle réservée aux magistrats.  Il y avait le juge **[p. 10]**Dantziger, le magistrat Parrain et un vieux greffier dont Maigret ne se rappelait jamais le nom, bien qu'il l'eût recontré des centaines de fois. 
+Ils venaient du Palais de Justice aussi, mais de la partie plus solennelle réservée aux magistrats.  Il y avait le juge 
+
+## p. 10
+
+Dantziger, le magistrat Parrain et un vieux greffier dont Maigret ne se rappelait jamais le nom, bien qu'il l'eût recontré des centaines de fois. 
 
 Ils descendaient la rampe et arrivaient au bord de l'eau, non loin de la péniche belge.  
 
@@ -55,7 +64,7 @@ Son accent flamand était très fort.
 
 Une bonne odeur de cuisine montait de la cabine et, au bas de l'escalier, on voyait une femme très jeune qui allait et venait.  
 
-**[p. 11]**
+## p. 11
 
 Maigret désignait le bébé dans le hamac.  
 
@@ -87,7 +96,7 @@ De loin, Maigret apercevait deux ou trois clochards qui se tenaient sous le pont
 
 --- Quelle heure était-il ?  Où étiez-vous ?  Dites-nous en détail ce qui s'est passé pendant la soirée.  Vous vous êtes amarré au quai peu avant la tombée de la nuit ?  
 
-**[p.12]**
+## p.12
 
 --- C'est juste.  
 
@@ -135,7 +144,7 @@ Il les observait tour à tour, sans confiance, comme les gens qui n'ont pas l'ha
 
 --- Elle dormait ?
 
-**[p. 13]**
+## p. 13
 
 --- Oui, monsieur. Et la petite dormait aussi. Il y a des nuits où elle pleure, parce qu'elle fait sess premières dents... 
 
@@ -177,7 +186,7 @@ Il les observait tour à tour, sans confiance, comme les gens qui n'ont pas l'ha
 
 --- Comment étaient les deux hommes ?  
 
-**[p. 14]**
+## p. 14
 
 --- Le plus petit portait un impermáble clair et avait de larges épaules.
 
@@ -217,7 +226,7 @@ Au-desus du mur, sur le quai, quelques passants s'étaient arrêtés, curieux de
 
 --- Qu'avez-vous fait ?  
 
-**[p. 15]**
+## p. 15
 
 --- J'ai sauté dans la barque.  
 
@@ -289,7 +298,7 @@ c'était tout simple et il avait dû vivre des scènes semblables plusiers fois 
 
 --- Votre femme s'est éveillée ?  
 
-**[p. 17]**
+## p. 17
 
 --- Il y avait de la lumière dans la cabine et Anneke, qui avait mis un manteau, nous regardait.  
 
@@ -339,7 +348,7 @@ Cette fois-ci, la tête fit non.
 
 --- Mais vous avez entendu de pas ?
 
-**[p 18.]**
+## p 18.
 
 --- Oui, monsieur, et j'ai vu deux types qui revenaient vers la voiture.  
 
@@ -373,7 +382,7 @@ Le magistrat regardait Maigret comme pour lui demander s'il avait des questions 
 
 Cela ne semblait pas plaire au marinier.  
 
-**[p. 19]**
+## p. 19
 
 --Au fait, à quelle heure votre frère ets-il rentré ?  
 
@@ -387,7 +396,7 @@ Jef Van Houtte l'aidait à nouveau à franchir l'étroite passerelle et le petit
 
 --- Je pense que c'est curieux.  Il est assez rare qu'on attaque un clochard.  
 
-Sous le pont Marie, il y avait contre le mur de pierre, ce qu'on aurait pu appeler une niche.  Cela n'avait pas de **[p.20]** forme, cela n'avait pas de nom et portant cela avait été, depuis un certain temps, semblait-il, l'abri d'un être humain.  
+Sous le pont Marie, il y avait contre le mur de pierre, ce qu'on aurait pu appeler une niche.  Cela n'avait pas de ## p.20 forme, cela n'avait pas de nom et portant cela avait été, depuis un certain temps, semblait-il, l'abri d'un être humain.  
 
 C'´tait fait de vielles caisses et de morceaux de toile.  Il y avait juste assez de place pour qu'un homme puisse s'y replier. Par terre, de la paille, des couvertures déchirées et des journaux répandaient une odeur forte.  
 
@@ -449,7 +458,7 @@ Cela la fit rire à nouveau.
 
 --- a toujours havité sous ce pont-ci ?
 
-**[p. 22]**
+## p. 22
 
 --- Pas toujours.  Je l'ai connu sous le Pont-Neuf. Et, avant ça, quai de Bercy.
 
@@ -497,7 +506,7 @@ L'homme les attendait.  Il était très différent du Flamand.  Lui aussi avait 
 
 --- Je n'ai vu du tout.  
 
-**[p. 23]**
+## p. 23
 
 --- Où étiez-vous ?  
 
@@ -537,7 +546,7 @@ L'homme les attendait.  Il était très différent du Flamand.  Lui aussi avait 
 
 --- Je crois que c'est tout, did le magistrat à mi-voix.  
 
-**[p. 24]**
+## p. 24
 
 --- Je m'occuperai du reste, répondid Maigret.  
 
@@ -583,7 +592,7 @@ Et it serrait gravement la main des magistrats.
 
 10. Qu'apprend Maigret par la grosse femme sur le Toubib ? 
 
-**[p. 25]**
+## p. 25
 
 
 --- Comment t'appelles-tu ?  
@@ -612,7 +621,7 @@ Oui. Fr comptais finir le reste. Il ne sera plus bon uand le Toubib reviendra.
 
 --- IL la croyait.  Il savait pare expérience que les clochards ne se volent pas entre eux.  
 
-**[p. 26]**
+## p. 26
 
 En face, dans l'île Saint-Louis, les fenêtres étaient ouvertes sur de jolis apparetements et on distinguait une femme qui se brossait les cheveux.  
 
@@ -644,7 +653,7 @@ Se tournant vers la grosse Léa, Maigret dit:
 
 Pue, désignant la bouteille, elle demanda:
 
-**[p. 27]**
+## p. 27
 
 --- Je peux la finir ?
 
@@ -674,17 +683,97 @@ Celui-ce, plus silencieux ou plus méfiant quw son frère, se contentait de fair
 
 --- Sans doute cet après-midi.  Dès que le juge aura fait signer les papiers par votre frère.  
 
---- Un peu plus tard, Maigret et Lapointe traversaient le quai des Célestins et, au coin de la rue de l'Ave-Maria, ils trouvaient un bistrot qui s'appelait « Petit Turin ».  Le patron se tenait devant la porte. Il n'y avait personne à l'intérieur.
+--- Un peu plus tard, Maigret et Lapointe traversaient le quai des Célestins et, au coin de la rue de l'Ave-Maria, ils trouvaient un bistrot qui s'appelait « Petit Turin ».  Le patron se tenait devant la porte.  Il n'y avait personne à l'intérieur.  
 
 --- On peut entrer ?  
 
 Il se poussa étonné de voir des gens comme eux pénétrer
 
+ ## p. 28
  
+dans son bistrot.  Celui-ci était tout petit et, en dohors du comptoir, il n'ya avait que trois tables.
 
+--- Qu'est-ce que je peux vous servir ?  
 
+--- Du vin.  
 
+--Chianti ?  
 
+Le patron prit une bouteillle sous les comptoir et remplit les verres en observant toujours les deux hommes d'un œil curieux.  
+
+--- Vous connaissez un clochard nommé le Toubib ?  
+
+--- Comment va-t-il ?  J'espère qu'il n'est pas mort ?  
+
+--- Vous êtes au courrant ?  Demande Maigret.  
+
+--- Je sais qu'il lui est arrivé quelque chose la nuit dernière.  
+
+--- Que vous a-t-on did exactement ?  
+
+--- Qu'il s'est passé quelque chose près di pont Marie, et qu'une ambulance était venue chercher le Toibib.  
+
+## p. 29
+
+--- C'est tout?  
+
+--- IL paraît que ce sont des mariniers qui l'ont retiré de l'eau.  
+
+--- C'est ici que le Toubib achetait son vin ?  
+
+--- Souvent.  
+
+--- Il en bouvait beaucoup ?  
+
+--- Environ deux livtres par jour.  Quand il avait de l'argent...  
+
+Comment le gagnait-il ?  
+
+--- Comme ils le gagnent tous.  En traivaillant aux Halles de temps en temps, ou bien en promentant de panneaux-réclames dans les rues.  A lui, je faisais volontiers crédit.  
+
+--- Pourquoi ?  
+
+--- Parce que ce n'étair pas un vagabond comme les autres.  Il a sauvé ma femme...  
+
+On la voyait dans la cuisine, presque aussi grosse que Léa, mais très alerte.  
+
+--- Tu parles de moi ?  
+
+--- Je raconte que le Toubib ...  
+
+Alors, elle pénétra dans le bistrot en s'essuyant les mains à son tablier.  
+
+## p. 30
+
+--- C'est vrai qu'on a essayé de le tuer ?, r  Vous êtes de la police ?   Vous croyer qu'il sera sauvé ?  
+
+--- On ne sait pas encore, répondid le commissaire, fatigué.  De quoi vous a-t-il sauvée ?  
+
+--- J'étais couverte d'eczéma et cela durait depuis des mois.  On me faisait suivre beaucoup de traitements, on me donnait des pommades qui sentaient mauvais, mais rien à faire.  Un jour que le Toubib était là, tenez, dans le coin, près de la ports, et que je me plaignais, j'ai senti qu'il me regardait d'une drôle de façon.  Un peu plus tard, il me dit de la même voix qu'il aurait commandé un verre de vin:  
+
+--- Je crois que je peux vous guérir.  
+
+--- Je lui ai demandé s'il était vraiment docteur et il a souri en répondant:  
+
+--- On ne m'a pas retiré le droit de practiquer.
+
+--- Ensuite il m'a demandé un peu d'argent, et il est allé lui-même chercher de la poudre à la pharmacie.  
+
+--- Vous prenez cela, dans de l'eau, avant chaque repas.  Et vous laverez, matin et soir, avec de l'eau très salée.  
+
+--- Vous me coirez si vous voulez, maism deux mois après, ma peau était redevenue comme elle est maintenant.  
+
+--- Il en soigné d'autres que vous ?  
+
+--- Je ne sais ps.  Ill ne parlait pas beaucoup.  Je sais seulement qu'il a eu fille, car nous en avons un et, une fois qu'elle le regardait curieusement, il lui a dit:  
+
+---N'aie pas peur.  J'ai eu une petite fille aussi...  
+
+## p. 31
+
+-- je vous dois combien ?  interrompit Maigret.  
+
+Vous........
 
 
 
