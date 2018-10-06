@@ -12,27 +12,27 @@ Transcription / grammar notes:
 
 ## p. 8
 
-Il y eut un moment, entre le quai des Orfèvres et le pont Marie où Maigret s'arrêta, si court, que Lapointe, qui marchait à son côté, n'y fit pas attention.  Et pourtant, pendant quelques secondes, le commissaire venait de se retrouver à l'âge de son compagnon.  Ceci était peut-être dû au temps, car, bien qu'on fût déjà le 25 mars, c'était la première vraie journée de printemps.  
+01: Il y eut un moment, entre le quai des Orfèvres et le pont Marie où Maigret s'arrêta, si court, que Lapointe, qui marchait à son côté, n'y fit pas attention.  Et pourtant, pendant quelques secondes, le commissaire venait de se retrouver à l'âge de son compagnon.  Ceci était peut-être dû au temps, car, bien qu'on fût déjà le 25 mars, c'était la première vraie journée de printemps.  
 
-Les mains jointes derrière le dos, il regardait autour de lui, à droite, à gauche, en l'air, remarquant de choses auxquelles, depuis longtemps, il ne prêtait plus attention.
+02: Les mains jointes derrière le dos, il regardait autour de lui, à droite, à gauche, en l'air, remarquant de choses auxquelles, depuis longtemps, il ne prêtait plus attention.
 
-Pour un chemin aussi court, il n'était pas question de prendre une des voitures noires de la Police Judiciare, et les deux hommes marchaient le long des quais.
+03: Pour un chemin aussi court, il n'était pas question de prendre une des voitures noires de la Police Judiciare, et les deux hommes marchaient le long des quais.
 
-sjy2-2018-10-04: rhinospike req. https://rhinospike.com/audio_requests/centzon400/48273/
+### sjy2-2018-10-04: rhinospike req. https://rhinospike.com/audio_requests/centzon400/48273/
 
-Arrivés à l'ile Saint Loius, ils suivaient le quai de Bourbon jusqu'au pont Marie qu'ils traversaient, et, de là, ils pouvaient voie une péniche grise.  Elle's appelail « Le Poitou » et elle était en train de décharger le sable dont elle était pleine.  
+04: Arrivés à l'ile Saint Louis, ils suivaient le quai de Bourbon jusqu'au pont Marie qu'ils traversaient, et, de là, ils pouvaient voir une péniche grise. Elle s'appelait« Le Poitou » et elle était en train de décharger le sable dont elle était pleine.
 
-Une autre péniche se trouvait à une cinquantaine de mètres de la première.  Plus propre, elle semblait avoir été nettoyée le matin-même, et un drapeau belge flotait tranquillement à l'arrière, tandis que, près de la cabine 
+05: Une autre péniche se trouvait à une cinquantaine de mètres de la première. Plus propre, elle semblait avoir été nettoyée le matin-même, et un drapeau belge flottait tranquillement à l'arrière, tandis que, près de la cabine 
 
 ## p. 9
 
-blanche, un bébé dormait dans un hamac de toile.  Un homme très grand, aux cheveux d'un blond pâle, regardait en direction du quai comme s'il attendait quelque chose.   
+blanche, un bébé dormait dans un hamac de toile. Un homme très grand, aux cheveux d'un blond pâle, regardait en direction du quai comme s'il attendait quelque chose.
 
+06: Le nom du bateau, en lettres dorées, était « De Zwarte Zwaan », un nom flamand, que ni Maigret ni Lapointe ne comprenaient.
 
-Le nom du bateau, en lettres dorées, était « De Zwarte Zwaan », un nom flamand*, que ni Maigret ni Lapointe ne comprenaient.  
-\* de la Flandre, une province de Belgique.
+07: Il était dix heures moins deux ou trois minutes. Les policiers atteignaient le quai des Célestins et alors qu'ils allaient descendre la rampe vers la porte, une voiture a'arrêta et trois hommes descendirent.
 
-Il était dix heures moins deux ou trois minutes.  Les policiers atteignaient le quai des Célestins et alors qu'ils allaient desendre la rampe vers la porte, une voiture a'arrêta et trois hommes descendirent.
+### sjy2-2018-10-06: rhinospike req. https://rhinospike.com/audio_requests/centzon400/48280/
 
 --- Tiens! On arrive en même temps.
 
@@ -690,7 +690,7 @@ Celui-ce, plus silencieux ou plus méfiant quw son frère, se contentait de fair
 Il se poussa étonné de voir des gens comme eux pénétrer
 
  ## p. 28
- 
+
 dans son bistrot.  Celui-ci était tout petit et, en dohors du comptoir, il n'ya avait que trois tables.
 
 --- Qu'est-ce que je peux vous servir ?  
@@ -773,7 +773,79 @@ Alors, elle pénétra dans le bistrot en s'essuyant les mains à son tablier.
 
 -- je vous dois combien ?  interrompit Maigret.  
 
-Vous........
+Vous n'en prenez pas un autre ?  A la santé du pauvre Toubib ?  
+
+Ils burent le second verre, que l'Italien refusa de leur laisser payer. Puis, ils franchirent le pont Marie.  
+
+Quelques minutes plus tard, ils pénétraient dans l'Hôtel-Dieu.  Après avoir longuement parlé avec une femme dans le bureau à l'entrée pour savoir où le Toubib était couché, ils montèrent au troisième.  Là, ils furent reçus par une infirmière-chef qui, d'un ton peu aimable, demanda à Maigret:  
+
+---C'est vous qui venez pour le clochard ?
+
+--- Commissaire Maigret, répondit-il.
+
+Elle chercherait dans sa mémoire.  Ce nom ne lui disait rien.  
+
+--  il a été opéré ?  
+
+---  Qui vous a parlé d'opération ?  
+
+---  Je ne sais pas.  Je croyais...
+
+Ici, Maigret ne se sentait pas à sa place et devenait timide.    
+
+---  Sous quel nom l'avez-vous inscrit ?  
+
+---  Le nom qui figurait sur la carte d'identité.  
+
+---  C'est vous qui avez cette carte ?  
+
+---  Je peux vous la montrer.  
+
+## P. 32
+
+
+
+elle pénétra dans un petit bureau et trouva tout de suite une carte, encore mouillée de l'eau de la Seine.  
+
+Nom : Keller
+
+Prénoms : François, Marie, Florentin.  
+
+Profession : chiffonnier.
+
+Né à : Mulhouse, Bas-Rhin.
+
+D'après ce decoument, l;homme avait soixante-trois ans et son   addresse à Paris etait la place Maubert, au numéro le commissaure connaissait bien, car il servait de domicile officiel à  uncertain nombre de clochrds.
+
+Elle...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
