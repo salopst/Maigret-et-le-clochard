@@ -64,6 +64,8 @@ Son accent flamand était très fort.
 
 Une bonne odeur de cuisine montait de la cabine et, au bas de l'escalier, on voyait une femme très jeune qui allait et venait.  
 
+sjy2-2018-10-06: rhinospike req. https://rhinospike.com/audio_requests/centzon400/48296/
+
 ## p. 11
 
 Maigret désignait le bébé dans le hamac.  
@@ -817,7 +819,7 @@ Né à : Mulhouse, Bas-Rhin.
 
 D'après ce decoument, l;homme avait soixante-trois ans et son   addresse à Paris etait la place Maubert, au numéro le commissaure connaissait bien, car il servait de domicile officiel à  uncertain nombre de clochrds.
 
-Elle...
+Elle.....
 
 
 
