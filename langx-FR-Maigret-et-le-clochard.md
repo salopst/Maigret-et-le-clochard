@@ -975,7 +975,58 @@ tantes.  Elle est maintenant très riche.  Le docteur était un original.  Tu as
 
 
 
-De retour à son bureau, Maigret se mit à regarder dans l'annuaire téléphonique de Paris.  
+De retour à son bureau, Maigret se mit à regarder dans l’annuaire téléphonique de Paris.
+
+— Rousselet … Amédée… Arthur… Aline…
+
+Il y avait toute une série de Rousselet, mais il trouva, écrit en plus gros: Laboratories René Rousselet.  
+
+Les laboratoires se trouvaient dans le XVI^e.  
+
+— Allô !  Je voudrais parler à Mme Rousselet, s’il vous plaît.  
+
+Une femme à la voix fort agréable demanda:  
+
+— De la part de qui ?  
+
+— Du commissaire Maigret, de la Police Judiciaire.  Il y avait un silence, puis:  
+
+— Pouvez-vous me dire de quoi il s’agit ?  
+
+— C’est personel.  
+
+— Je suis Mme Rousselet.  
+
+— Vous êtes née à Mulhouse et votre nom de jeune fille est bien Keller ?  
+
+— Oui.  
+
+— J’aimerais avoir un entretien avec vous le plus tôt possible.  Puis-je passer à votre domicile ?  
+
+— J’ai seulement besoin de quelques reneseignements.  
+
+## p. 39
+
+— Je vous attends, monsieur le commissaire.  Notre appartement est au troisième étage.  
+
+Maigret apprécia les avenues calmes, les maisons riches et les arbes des beaux quartiers où le conduisait une petite voiture de la P.J. conduite par l’inspecteur Torrence.  
+
+— Je monte avec vous ?  
+
+— Je pense qu’il vaut mieux pas.
+
+Il eut à peine le temps de preser le bouton de sonnerie que la porte s’ouvrit et qu’un valet de chambre en veste blanche lui prit son chapeau.  
+
+— Par ici, voulez-vou ?  
+Une autre porte s’ouvrait, celle du grand salon.  
+
+— Entrez, monsieur le commissaire.  
+
+Maigret avait compté qu’elle devait avoir dans les trente-cinq ans.  Elle ne les paraissait pas.  Elle était brune, vêtue d’un tailleur léger.  Son regard, qui availt la même douceur que sa voix, posait déjà une question, tandis que le valet refermait la porte.  
+
+— Asseyez-vous.  Depuis que vous m’avez téléphoné, je me demande…
+
+## p. 40
 
 
 
