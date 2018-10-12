@@ -88,15 +88,17 @@ Il désignait le « Poitou », à l'arrière duquel un homme regardait de leur c
 
 --- Depuis combien de temps êtes-vous *amarré* à ce quai ?  
 
---- Depuis hier soir. Je viens de Jeumont avec un chargement pour Rouen. Je comptais traverser Paris et m'arrêter pout la nuit à Suresnes.  Je me suis aperçu tout à coup que quelque chose n'allait pas dans le moteur.  Nous, on n'aime pas coucher en plein Paris, vous comprenez ?  
+--- Depuis hier soir. Je viens de Jeumont avec un chargement pour Rouen. Je comptais traverser Paris et m'arrêter pour la nuit à Suresnes.  Je me suis aperçu tout à coup que quelque chose n'allait pas dans le moteur.  Nous, on n'aime pas coucher en plein Paris, vous comprenez ?  
 
 De loin, Maigret apercevait deux ou trois clochards qui se tenaient sous le pont et, parmi eux, une femme très grosse qu'il lui semblait avoir déjà vue.  
 
 --- Comment cela s'est-il passé ? L'homme s'est jeté à l'eau ?  
 
---- Je ne crois pas, monsieur.  S'il s'etait jeté à l'eau, qu'est-ce que les deux autres seraient venus faire ici ?  
+--- Je ne crois pas, monsieur.  S'il s'était jeté à l'eau, qu'est-ce que les deux autres seraient venus faire ici ?  
 
 --- Quelle heure était-il ?  Où étiez-vous ?  Dites-nous en détail ce qui s'est passé pendant la soirée.  Vous vous êtes amarré au quai peu avant la tombée de la nuit ?  
+
+sjy2-2018-10-11: rhinospike req.https://rhinospike.com/audio_requests/centzon400/48318/
 
 ## p.12
 
@@ -819,15 +821,161 @@ Né à : Mulhouse, Bas-Rhin.
 
 D'après ce decoument, l;homme avait soixante-trois ans et son   addresse à Paris etait la place Maubert, au numéro le commissaure connaissait bien, car il servait de domicile officiel à  uncertain nombre de clochrds.
 
-Elle.....
+Elle voulut reprendre la carte d’identité que Maigret glissait dans sa poche.  
+
+— Ce n’est pas régulier… Le règlement…  
+Elle hésita, finit par céder.  
+
+— Après tout, vous voulez arrangerez avec le professeur.  
+
+— Quand est-ce que je pourrai le voir ?  
+
+— Je crois qu’il est toujours occupé, mais je vais aller voir.  
+
+Elle disparut et, peu après, alle revint en leur disant: 
+
+— Il aura fini dans quelque minutes. IL vous prie de l’attendre dans son bureau.  
+
+Maigret était en train d’allumer sa pipe quand le professeur entra dans la pièce:
+
+--- Excusez-moi de vous avoir fair attendre, monsieur le commissaire.  Quand mon infirmière m’a appris que vous étiez là, j’ai été un peu étonné.  Après tout…
+
+Allait-il dire qu’après tout il ne s’agissait que d’un clochard ?  Non.  
+
+— … L’affaire est assez banale, je pense ?  
+
+## p. 33
 
 
 
+— Je ne sais encore à peu près rien et je compte sur vous pour me le dire.  
+
+— Une belle fracture du crâne, pas grave, heureusement, cal le cerveau ne semble pas atteint.  
+
+— Cette fracture peut-elle avoir été produite par une chute sur the quai ?  
+
+— Certainement pas. L’homme a été frappé avec violence avec un instrument lourd.
+
+— Vous zoulez dire qu’il a reçu un coup sur la tête ?   Un seul ?  
+
+— Pourquoi me demandez-vous ça ?  
+
+— Cela peut avoir de l’importance.  
+
+— Au premier coup d’œil, j’ai pensé qu’il avait peut-être reçu plusiers coups, mais après l’avoir lavé, j’ai trouvé que ce n’étaient que des blessures peu profondes.  Où cela s’est-il passé ?  
+
+— Sous le pont Marie.  
+
+— Au cours d’une bagarre ?  
+
+Il partaît que non.  L’homme était couché, semble-t-il, endormi, au moment où il a été attaqué.  
+
+— C’est tout à fait possible.  Il a perdu connaissance, de sorte qu’on a peu le croirse mort.  
+
+— Comment cela se fait-il qu’une fois dans la Seine il se soit mis à crier ?  
+
+— Vous m’en demandez beaucoup.  Mettons que le contact avec l’eau froide…  
+
+— On dit que, lorsqu’on l’a retiré de l’eau, il avait les yeux ouverts.  
+
+— Cela ne prouve pas qu’il avait repris connaissance.  Je suppose que vous aimeriez le voir ?  Venez zvez moi.
+
+## p. 34
 
 
 
+Il les emmena vers une porte, derrière laquelle on voyait deux rangs de lits, tous occupés.  En s'arrêtant devant un dex lits, il se tourna vers Maigret:  
+
+—  Vous ne voyez pas grand-chose.
+
+En fait, on ne voyait que dez pansements qui entouraient la tête et le visage du clochard.  Suelement les yeux, le nez et la bouche étaient d écouverts.  
+
+— Combien de chances a-t-il d’être sauvé ?  
+
+— mettons quatre-vingts pour cent, car le cœur est fort.  
+
+— Je vous remircie.  
+
+— On vous  préviendra dès qu’il reprendra connaissance.  Laissez votre numéro de téléphone à l’infirmière-chef.  
+
+Cela faisait du bien de se retrouver dehors, de voir le soleil.  Maigret marchait à nouveau sans rien dire et Lapointe savait qu’il réfléchissait.  
+
+Une fois rentré à son bureau, Maigret donna l’ordre à Lucas d’aller chercher tous les objets appartenant au Toubib, et il envoya  Lapointe se renseigner sur les voitures rouges portant deux 9 et étant de Paris.  
+
+Ensuite, il rentra chez lui.  Rêvant, il était en train de manger son plat de viande quand sa femma lui demanda:
 
 
+
+## p. 35
+
+
+
+— A quoi penses-tu ?  
+
+— A mon clochard.  
+
+— Quel clochard ?
+
+— Un type qui aurait été médecin autrefois.  
+
+— Rien que je sache.  C’est à lui qu’on a cassé la tête alors qu’il dormait sous le pont Marie.  Après quoi on l’a jeté à l’eau.  
+
+— Il est mort ?  
+
+— Il a été tiré de l’eau à temps par des mariniers.  
+
+— Que lui voulait-on ?
+
+— C’est ce que je me demande.  Au fait, il est né à Mulhouse, comme ton beau-frère.  
+
+La sœur de Mme Maigret habitait Mullhouse avec son mari et les Maigret étaient allés assez souvent la voir.  
+
+— Comment s’appelle-t-il ?  
+
+— Keller … François Keller.  
+
+— C’est drôle, mais le nom me dit quelque chose.  
+
+— C’est un nom assez courant là-bas.  
+
+— Si je téléphonais à Florence ?  
+
+Il haussa les épaules.  Porquoi pas ?  Il n’y croyait pas, mais cela ferait plaisir à sa femme.  
+
+Dès qu’elle eut servi le café, elle appela Mulhouse.  Après une conversation d’un quart d’heure, elle s’addressa, toute fière, à Maigret.  
+
+— J’étais sûre que je connaissais le nom.  Tu as compris ce qu’elle disait ?  Il semble que ce soit ce Keller-là, François, qui était médecin et qui a épousé la fille d’un magistrat.  Celui-ci est mort peu avant le mariage.  Il y a une vingtaine d’années, Mme Keller a hérité d’une de ses 
+
+## p. 36
+
+tantes.  Elle est maintenant très riche.  Le docteur était un original.  Tu as entendu ce que j’ai dit ?  Un sauvage, selon le mot de ma sœur. Ils ont quitté leur maison pour s’installer dans un hôtel particulier.  Ils on eu une fille qui est maintenent mariée avec le file Rousselet, des produits pharmaceutiques, et il vivent à Paris.  Après le déménagement, Keller est encore resté un an avec sa femme, puis il a disparu tout à coup.  Florence va téléphoner à ses amies, surtout les plus âgées, pour obtenir d’autres reneseignements.  Elle a promis de me rapeler.  Cela t’intéresse ?
+
+— Tout m’intéresse, soupira-t-il en se levant de son fauteuil  pour aller changer de pipe.
+
+## p. 37
+
+
+
+## Questions
+
+1. Où était Hubert Van Houtte pendant le drame ?  
+2. Comment le Toubib a-t-il sauvé la femme du café ?  
+3. Comment Maigret apprend-il que le Toubib a une fille ?
+4. Dans quel hôpital se trouve le Toubib ?  
+5. Par qui sont-ils reçus à l'hôpital ?  
+6. Qu'y a-t-il d'inscrit sur la carte du Toubib ?  
+7. Le Toubib a-t-il repris connaissaince ?  
+8. Quelles sont ses blessures ?  
+9. De quelle ville est-il originire ?
+10. Porquoi Mme Maigret téléphone-t-elle à sa sœur ?  
+
+
+
+## p. 38
+
+
+
+De retour à son bureau, Maigret se mit à regarder dans l'annuaire téléphonique de Paris.  
 
 
 
